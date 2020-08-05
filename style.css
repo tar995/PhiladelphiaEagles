@@ -1,0 +1,31 @@
+
+ * {
+     margin: ;
+     padding: ;
+     list-style: square;
+ }
+
+
+body {
+    background-color: darkgreen;
+    background-color: rgba(60, 179, 113, 1);
+
+    color:black;
+
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+
+    margin-left: 50px;
+    margin-top: 60px;
+    margin-right: 30px;
+    margin-bottom: 60px;
+
+    list-style: square;
+
+}
+
+  h1{
+      text-align: center;
+      margin-top: ;
+  }
